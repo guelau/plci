@@ -1,8 +1,10 @@
-PlCI
+# PlCI
 ====
 
-PlCI is small and a simple continuous integration tools in Perl
-http://en.wikipedia.org/wiki/Continuous_integration
+## INTRODUCTION
+
+PlCI is small and a simple continuous integration Perl tool
+(http://en.wikipedia.org/wiki/Continuous_integration)
 
 For Now, this script is used to implement deployment / build / CI cycle for PHP projects only
 Currently use PHPUnit and PHP Code Sniffer
@@ -22,8 +24,8 @@ TODO and not yet implemented:
 - Possibility to use an external configuration file to extend/replace PlCI configuration
 - Launching some externals and specific scripts
 
-Documentation
-=============
+## Documentation
+
 Use a cron (like crontab) to periodically run this script on a server
 30 2 * * * /usr/bin/perl /home/user/path/to/ci.pl
 
