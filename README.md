@@ -1,5 +1,4 @@
 # PlCI
-====
 
 ## INTRODUCTION
 
@@ -23,6 +22,7 @@ TODO and not yet implemented:
 - Create an HTML report (full path will be configured, can be browsed)
 - Possibility to use an external configuration file to extend/replace PlCI configuration
 - Launching some externals and specific scripts
+- More Log informations
 
 ## Documentation
 
